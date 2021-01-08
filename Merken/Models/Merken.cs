@@ -25,8 +25,6 @@ namespace Merken.Models
             }
         }
 
-    
-
         public void sorteer()
         {
             merken.Sort() ;

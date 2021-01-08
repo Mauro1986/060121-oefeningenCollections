@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woordenboek", "060121 oefen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merken", "Merken\Merken.csproj", "{971BBB5D-6D30-4C1B-8ECA-905D5E98AB5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmCollectie", "FilmCollectie\FilmCollectie.csproj", "{46C354FF-4C2C-433B-8EA1-4B875945D5D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studenten", "Studenten\Studenten.csproj", "{ADBAACBD-DB22-4A02-B711-FE2FD1E8A865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{971BBB5D-6D30-4C1B-8ECA-905D5E98AB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{971BBB5D-6D30-4C1B-8ECA-905D5E98AB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{971BBB5D-6D30-4C1B-8ECA-905D5E98AB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C354FF-4C2C-433B-8EA1-4B875945D5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C354FF-4C2C-433B-8EA1-4B875945D5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C354FF-4C2C-433B-8EA1-4B875945D5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C354FF-4C2C-433B-8EA1-4B875945D5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBAACBD-DB22-4A02-B711-FE2FD1E8A865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBAACBD-DB22-4A02-B711-FE2FD1E8A865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBAACBD-DB22-4A02-B711-FE2FD1E8A865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBAACBD-DB22-4A02-B711-FE2FD1E8A865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
